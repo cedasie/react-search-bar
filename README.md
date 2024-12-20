@@ -18,4 +18,3 @@ Make sure you have Bun installed on your machine. If not, install it using:
 ```bash
 curl -fsSL https://bun.sh/install | bash
 ```
-# react-search-bar
